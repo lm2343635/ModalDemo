@@ -8,16 +8,12 @@
 
 import UIKit
 
-class SecondViewController: UIViewController {
+class ViewController2: ViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
 
         // Do any additional setup after loading the view.
-    }
-    
-    @IBAction func back(_ sender: Any) {
-        dismiss(animated: true)
     }
     
 }
